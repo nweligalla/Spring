@@ -18,7 +18,6 @@ public class SetterDemoApp {
 		
 		System.out.println(coach.getDailyFortune());
 		
-		
 		//call literal methods
 		System.out.println(coach.getEmailAddress());
 		System.out.println(coach.getTeam());
